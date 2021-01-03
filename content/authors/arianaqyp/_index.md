@@ -1,6 +1,8 @@
 ---
 # Display name
-title: Ariana Quek Yen Peng
+title: Jin Yi Yong
+
+authors: jinyiyong
 
 # Is this the primary user of the site?
 superuser: true
