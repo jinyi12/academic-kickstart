@@ -14,8 +14,7 @@ role: Algorithm Engineer
 #   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning for complex multiscale networked systems, and Graphical Models.
-
+bio: My research interest is in Machine Learning and Data Science for largely interconnected systems.  Focuses on pressing the frontier of graphical models and developing innovative computational frameworks for complex multiscale networked systems.
 # Interests to show in About widget
 interests:
 - Machine Learning
@@ -27,7 +26,7 @@ education:
   courses:
   - course: MEng in Electrical and Electronics Engineering
     institution: University of Southampton
-    year: 2018
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,5 +64,6 @@ highlight_name: false
 ---
 
 Jin Yi Yong is presently an Algorithm Engineer, graduated from University of Southampton. His research interests include Machine Learning for complex multiscale networked systems, and the applications of Graphical Models to such systems.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
