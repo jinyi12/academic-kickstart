@@ -67,4 +67,4 @@ highlight_name: false
 Jin Yi Yong is presently an Algorithm Engineer, graduated from University of Southampton. His research interests include Machine Learning for complex multiscale networked systems, and the applications of Graphical Models to such systems.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
